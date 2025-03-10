@@ -7,7 +7,11 @@ Currently, I’m deepening my knowledge of the C language, developing my problem
 📚 What I’m currently studying:
 
 Data structures and algorithms in C
+
 Logic and computational thinking
+
 Technical English for software development
+
 📫 Get in touch:
+
 🔗 [LinkedIn](https://www.linkedin.com/in/larissamvaz/)
